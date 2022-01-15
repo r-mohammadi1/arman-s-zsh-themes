@@ -4,14 +4,14 @@ zsh themes, most made with the help of the [zsh prompt generator](https://zsh-pr
 ## stellachar
 a zsh theme
 
-![stellachar](https://raw.githubusercontent.com/r-mohammadi1/stellachar/main/Screenshot_20210722_110629.png "stellachar")
+![stellachar]
 
 screenshot shows stellachar in hyper terminal with custom theme installed
 
 ## lunachar
 a zsh theme 
 
-![lunachar](https://raw.githubusercontent.com/r-mohammadi1/lunachar/main/Screenshot_20210628_143049.png "lunachar")
+![lunachar]
 
 screenshot shows lunachar in hyper terminal with hyper-whimsy theme installed
 
