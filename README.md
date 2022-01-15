@@ -6,14 +6,12 @@ a zsh theme
 
 ![stellachar]
 
-screenshot shows stellachar in hyper terminal with custom theme installed
 
 ## lunachar
 a zsh theme 
 
 ![lunachar]
 
-screenshot shows lunachar in hyper terminal with hyper-whimsy theme installed
 
 ## solachar
 a zsh theme
