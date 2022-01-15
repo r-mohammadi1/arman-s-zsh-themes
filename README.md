@@ -4,16 +4,17 @@ zsh themes, most made with the help of the [zsh prompt generator](https://zsh-pr
 ## stellachar
 a zsh theme
 
-![stellachar]
-
+![stellachar](https://raw.githubusercontent.com/r-mohammadi1/armans-zsh-themes/main/stellachar.png)
+stellachar on konsole
 
 ## lunachar
 a zsh theme 
 
-![lunachar]
-
+![lunachar](https://raw.githubusercontent.com/r-mohammadi1/armans-zsh-themes/main/lunachar.png)
+lunachar on konsole
 
 ## solachar
 a zsh theme
 
-![solachar]
+![solachar](https://raw.githubusercontent.com/r-mohammadi1/armans-zsh-themes/main/solachar.png)
+solachar on konsole
