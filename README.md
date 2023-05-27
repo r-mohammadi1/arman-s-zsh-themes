@@ -20,4 +20,5 @@ a zsh theme
 solachar on konsole
 
 ## mechachar
+a zsh theme
 no preview
