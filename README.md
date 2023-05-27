@@ -21,4 +21,10 @@ solachar on konsole
 
 ## mechachar
 a zsh theme
+
+no preview
+
+## dangerprompt
+a fun zsh theme
+
 no preview
