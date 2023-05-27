@@ -18,3 +18,6 @@ a zsh theme
 
 ![solachar](https://raw.githubusercontent.com/r-mohammadi1/armans-zsh-themes/main/solachar.png)
 solachar on konsole
+
+## mechachar
+no preview
